@@ -19,5 +19,5 @@ This repository includes multiple small and medium-scale projects built using **
 ## 🚀 How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/web-projects.git
+   git clone https://github.com/NeelDevX/web-projects.git
 
