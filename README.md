@@ -4,6 +4,7 @@ Welcome to my collection of front-end web projects!
 This repository includes multiple small and medium-scale projects built using **HTML, CSS, and JavaScript** to strengthen my web development skills and creativity.
 
 ## 📁 Project List
+- 🎨 Color Changer App
 - 🧮 Calculator App  
 - 🌦️ Weather Dashboard (OpenWeather API)  
 - ✅ To-Do List  
