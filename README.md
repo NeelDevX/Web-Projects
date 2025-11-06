@@ -6,7 +6,7 @@ This repository includes multiple small and medium-scale projects built using **
 ## 📁 Project List
 
 - 🎨 Color Changer App
-- 🔢 Counter
+- 🔢 Counter App
 - 🧮 Calculator App
 - 🌦️ Weather Dashboard (OpenWeather API)
 - ✅ To-Do List
